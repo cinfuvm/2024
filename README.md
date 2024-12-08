@@ -1,6 +1,6 @@
 # Aplicaciones Web y Dispositivos Móviles 2024
 
-Resumen y Proyectos Elaborados en el Año 2024 en el ramo de "Aplicaciones Web y Dispositivos Móviles"
+Resumen y Proyectos Elaborados en el Año 2024 (Agosto - Diciembre) en el ramo de "Aplicaciones Web y Dispositivos Móviles"
 en la _Universidad de Viña del Mar_ para la carrera de _Ingeniería Civil Informática_.
 
 - https://www.uvm.cl/
